@@ -1,0 +1,6 @@
+product_id;product_name;price;in_stock;category
+101;Mechanical Keyboard;89.99;true;Peripherals
+102;USB-C Hub;34.50;true;Accessories
+103;Monitor Stand;45.00;false;Furniture
+104;Webcam HD;59.99;yes;Peripherals
+105;Desk Lamp;22.75;on;Furniture
